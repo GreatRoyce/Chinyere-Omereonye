@@ -1415,7 +1415,17 @@ nav {
 
 @media (max-width: 480px) {
   .intro-card h2 span {
-    font-size: 2.5rem;
+    font-size: 2rem;
+
+    color: var(--dark);
+    display: block;
+
+    font-weight: 700;
+  }
+}
+@media (max-width: 480px) {
+  .intro-card h2{
+    font-size: 2rem;
 
     color: var(--dark);
     display: block;

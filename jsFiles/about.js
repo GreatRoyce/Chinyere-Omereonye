@@ -1,25 +1,25 @@
 const aboutme = () => {
-    let about = document.querySelector(".aboutme")
-    about.innerHTML=`
+  let about = document.querySelector(".aboutme");
+  about.innerHTML = `
     <div class="aboutme-container">
         <!-- Intro Content -->
         <div class="intro-card">
-          <h2>Shopify <span>E-commerce</span> Specialist</h2>
+          <h2>Shopify <span>E-commerce & </span> Customer Service Specialist</h2>
 
           <p>
-            I am Chinyere Omereonye, a dedicated Shopify e-commerce specialist
-            with over 5 years of experience in strengthening customer retention
-            and optimizing day-to-day online store operations for businesses of
-            all sizes.
-          </p>
+  I am Chinyere Omereonye, with over 5 years of experience in customer support
+  and more than a year working as a Shopify e-commerce specialist. I enjoy helping
+  businesses improve customer experiences and manage their online stores smoothly.
+</p>
 
-          <p>
-            My journey in e-commerce began with managing small boutique stores
-            and has evolved into supporting established brands with
-            multi-million dollar annual revenue. I've worked with over 50
-            Shopify stores across various industries including fashion,
-            electronics, health & wellness, and digital products.
-          </p>
+<p>
+  I started by supporting small boutique shops and have gradually worked with
+  established brands across various industries, including fashion, electronics,
+  health & wellness, and digital products. Along the way, I've contributed to
+  over 15 Shopify stores, always aiming to provide thoughtful and practical
+  solutions.
+</p>
+
 
           <div class="highlight-box">
             <p>
@@ -104,6 +104,6 @@ const aboutme = () => {
           </div>
         </div>
       </div>
-    `
-}
+    `;
+};
 aboutme();

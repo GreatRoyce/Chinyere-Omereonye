@@ -1,6 +1,6 @@
 const connect = () => {
-    let connect = document.querySelector(".connect-section")
-    connect.innerHTML=`
+  let connect = document.querySelector(".connect-section");
+  connect.innerHTML = `
     
       <div class="connect-container">
         <div class="section-header">
@@ -70,15 +70,15 @@ const connect = () => {
               </div>
             </div>
 
-            <div class="quick-actions">
-              <a
-                href="https://wa.me/2347035451100"
-                class="whatsapp-btn"
-                target="_blank"
-              >
-                <i class="fab fa-whatsapp"></i> Message on WhatsApp
-              </a>
-            </div>
+           <div class="quick-actions"> 
+  <a
+    href="https://wa.me/2347035451100?text=Hi%2C%20Chinyere%2C%20this%20is%20from%20your%20portfolio%20website"
+    class="whatsapp-btn"
+    target="_blank"
+  >
+    <i class="fab fa-whatsapp"></i> Message on WhatsApp
+  </a>
+</div>
           </div>
 
           <!-- Social & Stats Card -->
@@ -159,6 +159,6 @@ const connect = () => {
           </div>
         </div>
       </div>
-    `
-}
+    `;
+};
 connect();

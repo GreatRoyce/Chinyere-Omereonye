@@ -4,7 +4,7 @@ const aboutme = () => {
     <div class="aboutme-container">
         <!-- Intro Content -->
         <div class="intro-card">
-          <h2>Shopify E-commerce Specialist</h2>
+          <h2>Shopify <span>E-commerce</span> Specialist</h2>
 
           <p>
             I am Chinyere Omereonye, a dedicated Shopify e-commerce specialist
@@ -76,7 +76,7 @@ const aboutme = () => {
           <div class="profile-card">
             <div class="profile-highlights">
               <div class="highlight-item">
-                <span class="highlight-number">40+</span>
+                <span class="highlight-number">20+</span>
                 <span class="highlight-text">Shopify Stores Supported</span>
               </div>
               <div class="highlight-item">
@@ -84,7 +84,7 @@ const aboutme = () => {
                 <span class="highlight-text">Years Experience</span>
               </div>
               <div class="highlight-item">
-                <span class="highlight-number">99%</span>
+                <span class="highlight-number">75%</span>
                 <span class="highlight-text">Client Satisfaction</span>
               </div>
             </div>

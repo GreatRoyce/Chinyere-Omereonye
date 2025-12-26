@@ -100,11 +100,11 @@ const connect = () => {
 
             <div class="quick-stats-grid">
               <div class="stat-box">
-                <span class="stat-number">40+</span>
+                <span class="stat-number">20+</span>
                 <span class="stat-label">Stores Supported</span>
               </div>
               <div class="stat-box">
-                <span class="stat-number">99%</span>
+                <span class="stat-number">75%</span>
                 <span class="stat-label">Satisfaction</span>
               </div>
               <div class="stat-box">
